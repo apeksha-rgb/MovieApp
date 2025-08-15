@@ -1,13 +1,51 @@
-# React + Vite
+# 🎬 Movie App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern movie browsing web app built using **React**, styled with **Tailwind CSS**, designed in **Figma** and powered by **The Movie Database (TMDB) API**. Users will be able to explore **trending** and **popular** movies, and view detailed information such as overview, release date, and more.
 
-Currently, two official plugins are available:
+> 🛠️ This project is currently under development. So far, the **hero section** is complete. More features are coming soon!
+🌐 ## [Live Demo](movie-deckk.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Features (Planned)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# MovieApp
+- ✅ Beautiful **Hero Section** 
+- ⏳ Display **Trending** and **Popular** movies from TMDB
+- ⏳ Click on a movie to view detailed **overview**
+- ⏳ Implement **search** functionality
+- ⏳ Responsive design across all devices
+- ⏳ Handle loading and error states
+
+---
+
+## ✨ Tech Stack
+
+- **React** – Frontend library
+- **Tailwind CSS** – Utility-first styling
+- **TMDB API** – Movie data source
+- **Figma** – UI/UX design and prototyping
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/movie-app.git
+cd movie-app
+```
+### 2. Install Dependency
+
+```bash
+npm install
+```
+### 3. Start the Development Server
+
+```bash
+npm run dev
+```
+
+
+
+
