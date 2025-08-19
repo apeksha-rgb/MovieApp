@@ -3,7 +3,7 @@
 A modern movie browsing web app built using **React**, styled with **Tailwind CSS**, designed in **Figma** and powered by **The Movie Database (TMDB) API**. Users will be able to explore **trending** and **popular** movies, and view detailed information such as overview, release date, and more.
 
 > 🛠️ This project is currently under development. So far, the **hero section** is complete. More features are coming soon!
-🌐 ## [Live Demo](movie-deckk.netlify.app)
+🌐 ## [Live Demo](https://movie-deckk.netlify.app)
 
 ---
 
